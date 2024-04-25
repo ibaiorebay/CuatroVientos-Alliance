@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibail\\Desktop\\DAM\\CuatroVientos-Alliance\\CuatrovientosRSEApp\\CuatrovientosRSE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98C81D5C-567E-4E26-9629-896FFF08D63F}|Entidades\\Entidades.vbproj|c:\\users\\ibail\\desktop\\dam\\cuatrovientos-alliance\\cuatrovientosrseapp\\cuatrovientosrse\\entidades\\ods.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{98C81D5C-567E-4E26-9629-896FFF08D63F}|Entidades\\Entidades.vbproj|solutionrelative:entidades\\ods.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C81D5C-567E-4E26-9629-896FFF08D63F}|Entidades\\Entidades.vbproj|C:\\Users\\ibail\\Desktop\\DAM\\CuatroVientos-Alliance\\CuatrovientosRSEApp\\CuatrovientosRSE\\entidades\\meta.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{98C81D5C-567E-4E26-9629-896FFF08D63F}|Entidades\\Entidades.vbproj|solutionrelative:entidades\\meta.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8ACD07-C38D-4420-A220-6528622288E5}|GestionBd\\GestionBd.vbproj|C:\\Users\\ibail\\Desktop\\DAM\\CuatroVientos-Alliance\\CuatrovientosRSEApp\\CuatrovientosRSE\\gestionbd\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1A8ACD07-C38D-4420-A220-6528622288E5}|GestionBd\\GestionBd.vbproj|solutionrelative:gestionbd\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6913626-C73A-4455-8524-331D0FB860E6}|Formularios\\Formularios.vbproj|C:\\Users\\ibail\\Desktop\\DAM\\CuatroVientos-Alliance\\CuatrovientosRSEApp\\CuatrovientosRSE\\formularios\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C6913626-C73A-4455-8524-331D0FB860E6}|Formularios\\Formularios.vbproj|solutionrelative:formularios\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.vb",
+              "DocumentMoniker": "C:\\Users\\ibail\\Desktop\\DAM\\CuatroVientos-Alliance\\CuatrovientosRSEApp\\CuatrovientosRSE\\GestionBd\\Class1.vb",
+              "RelativeDocumentMoniker": "GestionBd\\Class1.vb",
+              "ToolTip": "C:\\Users\\ibail\\Desktop\\DAM\\CuatroVientos-Alliance\\CuatrovientosRSEApp\\CuatrovientosRSE\\GestionBd\\Class1.vb",
+              "RelativeToolTip": "GestionBd\\Class1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-25T09:55:46.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Meta.vb",
+              "DocumentMoniker": "C:\\Users\\ibail\\Desktop\\DAM\\CuatroVientos-Alliance\\CuatrovientosRSEApp\\CuatrovientosRSE\\Entidades\\Meta.vb",
+              "RelativeDocumentMoniker": "Entidades\\Meta.vb",
+              "ToolTip": "C:\\Users\\ibail\\Desktop\\DAM\\CuatroVientos-Alliance\\CuatrovientosRSEApp\\CuatrovientosRSE\\Entidades\\Meta.vb",
+              "RelativeToolTip": "Entidades\\Meta.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-25T09:55:46.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ODS.vb",
+              "DocumentMoniker": "C:\\Users\\ibail\\Desktop\\DAM\\CuatroVientos-Alliance\\CuatrovientosRSEApp\\CuatrovientosRSE\\Entidades\\ODS.vb",
+              "RelativeDocumentMoniker": "Entidades\\ODS.vb",
+              "ToolTip": "C:\\Users\\ibail\\Desktop\\DAM\\CuatroVientos-Alliance\\CuatrovientosRSEApp\\CuatrovientosRSE\\Entidades\\ODS.vb",
+              "RelativeToolTip": "Entidades\\ODS.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-25T09:55:46.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ibail\\Desktop\\DAM\\CuatroVientos-Alliance\\CuatrovientosRSEApp\\CuatrovientosRSE\\Formularios\\Form1.vb",
+              "RelativeDocumentMoniker": "Formularios\\Form1.vb",
+              "ToolTip": "C:\\Users\\asiel\\OneDrive\\Escritorio\\CuatrovientosRSE\\CuatroVientos-Alliance\\CuatrovientosRSEApp\\CuatrovientosRSE\\Formularios\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\asiel\\OneDrive\\Escritorio\\CuatrovientosRSE\\CuatroVientos-Alliance\\CuatrovientosRSEApp\\CuatrovientosRSE\\Formularios\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-25T09:55:46.27Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
