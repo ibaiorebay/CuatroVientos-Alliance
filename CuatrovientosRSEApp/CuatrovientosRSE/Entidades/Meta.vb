@@ -1,21 +1,25 @@
 ﻿Public Class Meta
     Implements IEquatable(Of Meta)
 
-    Private Property NumeroODS As Byte
-    Private Property NumeroMeta As Char
-    Private Property Descripcion As String
+    Public Property NumeroODS As Byte
+    Public Property CaracterMeta As String
+    Public Property Descripcion As String
 
-    Public Overloads Function ToString()
-        Return $"{NumeroODS}.{NumeroMeta}: {Descripcion}"
+    Public Overloads Function ToString(simple As Boolean)
+        If simple Then
+            Return $"{NumeroODS}.{CaracterMeta}"
+        Else
+            Return $"{NumeroODS}.{CaracterMeta}: {Descripcion}"
+        End If
     End Function
-    Public Sub New(numeroODS As Byte, numeroMeta As Char)
+    Public Sub New(numeroODS As Byte, caracterMeta As String)
         Me.NumeroODS = numeroODS
-        Me.NumeroMeta = numeroMeta
+        Me.CaracterMeta = caracterMeta
         Me.Descripcion = ""
     End Sub
-    Public Sub New(numeroODS As Byte, numeroMeta As Char, descripcion As String)
+    Public Sub New(numeroODS As Byte, caracterMeta As String, descripcion As String)
         Me.NumeroODS = numeroODS
-        Me.NumeroMeta = numeroMeta
+        Me.CaracterMeta = caracterMeta
         Me.Descripcion = descripcion
     End Sub
     Public Overrides Function Equals(obj As Object) As Boolean
@@ -25,7 +29,7 @@
     Public Overloads Function Equals(other As Meta) As Boolean Implements IEquatable(Of Meta).Equals
         Return other IsNot Nothing AndAlso
                NumeroODS = other.NumeroODS AndAlso
-               NumeroMeta = other.NumeroMeta
+               CaracterMeta = other.CaracterMeta
     End Function
 
 End Class
