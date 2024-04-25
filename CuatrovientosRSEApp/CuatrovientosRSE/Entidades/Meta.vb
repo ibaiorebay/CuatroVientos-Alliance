@@ -2,18 +2,18 @@
     Implements IEquatable(Of Meta)
 
     Private Property NumeroODS As Byte
-    Private Property NumeroMeta As Byte
+    Private Property NumeroMeta As Char
     Private Property Descripcion As String
 
     Public Overloads Function ToString()
         Return $"{NumeroODS}.{NumeroMeta}: {Descripcion}"
     End Function
-    Public Sub New(numeroODS As Byte, numeroMeta As Byte)
+    Public Sub New(numeroODS As Byte, numeroMeta As Char)
         Me.NumeroODS = numeroODS
         Me.NumeroMeta = numeroMeta
         Me.Descripcion = ""
     End Sub
-    Public Sub New(numeroODS As Byte, numeroMeta As Byte, descripcion As String)
+    Public Sub New(numeroODS As Byte, numeroMeta As Char, descripcion As String)
         Me.NumeroODS = numeroODS
         Me.NumeroMeta = numeroMeta
         Me.Descripcion = descripcion
